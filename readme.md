@@ -1,3 +1,6 @@
+# NOTE
+please dont use this for bots at ALL, john bliish says no to bliish bots whether or not its spamming discord links or posting snapple facts
+
 to find `bliish_cookies` for your account, run the following code snippet while logged in on [bliish](bliish.com):
 ```
 const cookies = document.cookie.split("; ").map(c => {
@@ -17,9 +20,3 @@ if (main) {
 console.clear();
 console.log(result.trim());
 ```
-
-started on may 1, 2026
-
-# TODO
-find out how to get more than one page in on feed.md and wall.md\
-start developing bliish-3ds
