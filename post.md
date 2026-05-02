@@ -1,4 +1,4 @@
-assuming `bliish_token` is a valid bliish token\
+assuming `bliish_cookies` are valid bliish token cookies\
 assuming `post_text` is the text to be posted\
 \
 post request to `https://bliish.com/api/v1/posts`\
@@ -7,7 +7,7 @@ file headers
 
 ```
 {
-    "cookie": "sb-prkqirdzadljdpkrvjvz-auth-token={bliish_token};",
+    "cookie": bliish_cookies,
     "origin": "https://bliish.com",
     "referer": "https://bliish.com",
     "content-type": "application/json"
