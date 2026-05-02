@@ -9,7 +9,7 @@ file headers
 
 ```
 {
-    "cookie": f"sb-prkqirdzadljdpkrvjvz-auth-token={bliish_token};",
+    "cookie": "sb-prkqirdzadljdpkrvjvz-auth-token={bliish_token};",
     "origin": "https://bliish.com",
     "referer": "https://bliish.com",
     "content-type": "application/json"
