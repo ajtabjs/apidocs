@@ -1,7 +1,7 @@
 assuming `bliish_token` is a valid bliish token\
 assuming `post_text` is the text to be posted\
 \
-post request\
+post request to `https://bliish.com/api/v1/posts`\
 \
 file headers
 
